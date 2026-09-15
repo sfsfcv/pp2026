@@ -1,0 +1,3 @@
+/Users/romanseryj/Desktop/pp/build/CMakeFiles/matmul.dir
+/Users/romanseryj/Desktop/pp/build/CMakeFiles/edit_cache.dir
+/Users/romanseryj/Desktop/pp/build/CMakeFiles/rebuild_cache.dir
