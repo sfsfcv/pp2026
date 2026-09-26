@@ -17,7 +17,7 @@ plt.ylabel("Время выполнения, с")
 plt.title("Время выполнения от размера задачи")
 plt.legend()
 plt.grid(True, alpha=0.3)
-plt.savefig("report/time_vs_size.png", dpi=150, bbox_inches="tight")
+plt.savefig("report/lab1/figures/time_vs_size.png", dpi=150, bbox_inches="tight")
 plt.close()
 
 # --- График 2: ускорение (speedup) от числа потоков, для каждого N ---
@@ -40,7 +40,7 @@ plt.ylabel("Ускорение (speedup = t_seq / t_par)")
 plt.title("Ускорение от числа потоков")
 plt.legend()
 plt.grid(True, alpha=0.3)
-plt.savefig("report/speedup_vs_threads.png", dpi=150, bbox_inches="tight")
+plt.savefig("report/lab1/figures/speedup_vs_threads.png", dpi=150, bbox_inches="tight")
 plt.close()
 
-print("Графики сохранены: report/time_vs_size.png, report/speedup_vs_threads.png")
+print("Графики сохранены: report/lab1/figures/time_vs_size.png, report/lab1/figures/speedup_vs_threads.png")
