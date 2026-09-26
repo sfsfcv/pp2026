@@ -40,3 +40,9 @@ cd ..
 
 python3 tools/generate.py 500          # генерация входных данных
 ./build/matmul
+
+---
+
+## Лабораторная работа №2
+
+Параллельная версия на OpenMP — полный отчёт: [report/lab2/README.md](report/lab2/README.md)
